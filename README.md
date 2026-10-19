@@ -14,8 +14,7 @@ to learn and implement a logic gate xor , although we can implement any gate I d
 
 
 also this is taught in our class in theory , I decide to tweak and play with it by making it into a model , it was fun implementing what idea i had about neural network from my class 
-
-the python i wrote is very beginner , i am still learning and promise to work on improving it 
+Written from scratch to understand backpropagation; not vectorized. 
 
 ## Results:
 The result that I obtained on training the model
@@ -28,7 +27,7 @@ Input: (1, 0) -> Predicted: 0.9953
 Input: (1, 1) -> Predicted: 0.0044
 
 ## Known limitations
-- Initialization is random, so some runs can get stuck. (Seed used: ___)
+- Initialization is random, so some runs can get stuck.
 - Plain Python loops, not vectorized. The next repo (MNIST) fixes that.
 
 ## Run it
