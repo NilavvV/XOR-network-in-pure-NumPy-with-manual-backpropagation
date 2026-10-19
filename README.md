@@ -1,3 +1,5 @@
+#XOR LOGIC USING NN & BACKPROP
+
 So, what I did here is make a very simple neural network model
 A 2-2-1 neural network (2 inputs, 2 hidden neurons, 1 output) that learns XOR,
 with forward pass and backpropagation written by hand. No ML libraries.
@@ -15,9 +17,8 @@ also this is taught in our class in theory , I decide to tweak and play with it 
 
 the python i wrote is very beginner , i am still learning and promise to work on improving it 
 
-
-
- #Results: the result that I obtained on training the model
+##Results:
+The result that I obtained on training the model
 Training the neural network on XOR gate:
 
 Testing predictions after training:
