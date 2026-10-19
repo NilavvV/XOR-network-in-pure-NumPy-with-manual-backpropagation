@@ -29,6 +29,7 @@ Input: (1, 1) -> Predicted: 0.0044
 ## Known limitations
 - Initialization is random, so some runs can get stuck.
 - Plain Python loops, not vectorized. The next repo (MNIST) fixes that.
+- results vary between runs because there is no fixed seed
 
 ## Run it
 python nn_logic_XOR.py
