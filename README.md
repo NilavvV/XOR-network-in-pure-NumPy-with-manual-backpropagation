@@ -17,7 +17,7 @@ also this is taught in our class in theory , I decide to tweak and play with it 
 
 the python i wrote is very beginner , i am still learning and promise to work on improving it 
 
-##Results:
+## Results:
 The result that I obtained on training the model
 Training the neural network on XOR gate:
 
