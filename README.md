@@ -1,4 +1,4 @@
-#XOR LOGIC USING NN & BACKPROP
+##XOR LOGIC USING NN & BACKPROP
 
 So, what I did here is make a very simple neural network model
 A 2-2-1 neural network (2 inputs, 2 hidden neurons, 1 output) that learns XOR,
